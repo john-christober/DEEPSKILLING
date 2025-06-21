@@ -1,7 +1,7 @@
 using System;
 
 public class Logger
-{
+{ 
     private static Logger ? instance;
     private static readonly object lockObj = new object();
     private Logger()
