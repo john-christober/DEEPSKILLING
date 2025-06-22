@@ -1,0 +1,14 @@
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\bin\Debug\net8.0\FinanceForecastApp.exe
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\bin\Debug\net8.0\FinanceForecastApp.deps.json
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\bin\Debug\net8.0\FinanceForecastApp.runtimeconfig.json
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\bin\Debug\net8.0\FinanceForecastApp.dll
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\bin\Debug\net8.0\FinanceForecastApp.pdb
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.AssemblyInfoInputs.cache
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.AssemblyInfo.cs
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.csproj.CoreCompileInputs.cache
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.dll
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\refint\FinanceForecastApp.dll
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.pdb
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\FinanceForecastApp.genruntimeconfig.cache
+C:\Users\Dell\.vscode\finance\FinanceForecastApp\obj\Debug\net8.0\ref\FinanceForecastApp.dll
