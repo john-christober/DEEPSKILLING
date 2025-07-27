@@ -1,0 +1,33 @@
+.main-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  color: darkred;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.label {
+  font-weight: bold;
+  color: black;
+}
+
+.value.name {
+  color: blue;
+}
+
+.value.school {
+  color: red;
+}
+
+.value.total {
+  color: purple;
+}
+
+.value.score {
+  color: green;
+  font-weight: bold;
+}
