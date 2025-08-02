@@ -1,0 +1,26 @@
+[
+  {
+    "name": "DBS",
+    "rent": 50000,
+    "address": "Chennai",
+    "image": "https://t4.ftcdn.net/jpg/03/84/55/29/240_F_384552930_zPoe9zgmCF7qgt8fqSedcyJ6C6Ye3dFs.jpg"
+  },
+  {
+    "name": "WeWork",
+    "rent": 70000,
+    "address": "Bangalore",
+    "image": "https://t3.ftcdn.net/jpg/05/24/37/16/240_F_524371662_i8JkwIuMQkwJLQJGgaU7dqQ8pVzqhErW.jpg"
+  },
+  {
+    "name": "Regus",
+    "rent": 45000,
+    "address": "Hyderabad",
+    "image": "https://t3.ftcdn.net/jpg/02/94/68/98/240_F_294689806_wM7TOHTVmQsuk5dqX3CEzQwvVHlivPMh.jpg"
+  },
+  {
+    "name": "Innov8",
+    "rent": 60000,
+    "address": "Mumbai",
+    "image": "https://t4.ftcdn.net/jpg/00/86/19/81/240_F_86198156_SgmxRZ0tTZvg3OzIXQWT0PInuOYgzCuI.jpg"
+  }
+]

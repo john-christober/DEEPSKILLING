@@ -1,0 +1,9 @@
+.lowRent {
+  color: rgb(69, 19, 220);
+  font-weight: bold;
+}
+
+.highRent {
+  color: rgb(210, 23, 42);
+  font-weight: bold;
+}
