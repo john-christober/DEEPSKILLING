@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+  background: white;
+}
+
+.section {
+  border-left: 4px solid green;
+  padding-left: 30px;
+  width: 60%;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: bold;
+}
+p {
+  margin: 15px 0;
+}
